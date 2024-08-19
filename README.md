@@ -34,7 +34,7 @@ The program consists of several key functions:
   Please enter the end date in DD MM YYYY format:
   31 12 2020
  
-  The number of days between 01/01/2020 and 31/12/2020 is: 365 days
+  The number of days between 01/01/2020 and 31/12/2020 is: 366 days
   
   ### Output
 
