@@ -35,9 +35,8 @@ The program consists of several key functions:
   31 12 2020
  
   The number of days between 01/01/2020 and 31/12/2020 is: 365 days
-## Demo
+  
+  ### Output
 
-![Watch the video](https://github.com/rajanmanickam23/Date-Duration-Calculator/blob/main/Demo-Calc.mp4)
-
-Click the link above to watch the demo video.
+  ![Output Screenshot](Output.png)
 
