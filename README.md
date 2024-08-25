@@ -2,12 +2,6 @@
 
 This C program calculates the number of days between two dates provided by the user. It performs validation checks for the input dates and accounts for leap years.
 
-## Table of Contents
-
-- [Features](#features)
-- [Code Overview](#code-overview)
-- [Sample Output](#sample-output)
-
 ## Features
 
 - Calculates the number of days between two dates.
